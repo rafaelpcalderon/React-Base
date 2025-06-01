@@ -4,7 +4,7 @@ import Paragraph from './components/Paragraph/Paragraph';
 function App() {
   return (
     <>
-      <Paragraph text='Este é um paragráfo maiúsculo e colorido' color='white' />
+      <Paragraph text='Este é um paragráfo maiúsculo e colorido' color='lightgreen' />
       <Button label='Baixar CV' />
     </>
   );
