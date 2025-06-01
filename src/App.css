@@ -1,0 +1,13 @@
+body{
+    background-color: rgb(133, 145, 156);
+    font-family: Arial, sans-serif;
+    overflow: hidden;
+}
+
+#root{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    min-height: 100vh;
+}
