@@ -1,6 +1,6 @@
 # React Base
 
-A simple project requested by the course "DevEmDobro"
+A simple React project created as part of the **DevEmDobro** course
 
 ## 🚀 How to Run This Project
 
