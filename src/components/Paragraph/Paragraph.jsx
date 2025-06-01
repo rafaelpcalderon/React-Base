@@ -3,7 +3,9 @@ import PropTypes from 'prop-types';
 function Paragraph(props) {
     return(
         <>
-            <p className="colorText" style={{color: props.color}}>{props.text.toUpperCase()}</p>
+            <p className="colorText" style={{color: props.color}}> 
+                {props.text.toUpperCase()} 
+            </p>
         </>
     )
 }
