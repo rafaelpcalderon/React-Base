@@ -1,5 +1,5 @@
 import Button from './components/Button/Button';
-import Paragraph from './Paragraph/Paragraph';
+import Paragraph from './components/Paragraph/Paragraph';
 
 function App() {
   return (
