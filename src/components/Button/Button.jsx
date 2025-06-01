@@ -4,7 +4,9 @@ import PropTypes from 'prop-types'
 import './Button.css'
 function Button(props){
     return(
-      <button className="btn" onClick={ () => alert('A label deste botão é: ' + props.label)}>{props.label}</button>  
+      <button className="btn" onClick={ () => alert('A label deste botão é: ' + props.label)}>
+          {props.label}
+      </button>  
     );
 }
 
